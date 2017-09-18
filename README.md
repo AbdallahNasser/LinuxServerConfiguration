@@ -155,7 +155,7 @@ Ufw Docs & Digital Ocean: [1][16] , [2][17] & [3][18]
  - `exit` (Log out of root)
  
 
-[1]: http://52.24.181.212/
+[1]: http://35.176.180.205/
 [2]: http://ec2-52-24-181-212.us-west-2.compute.amazonaws.com/
 [3]: https://wiki.ubuntu.com/Security/Upgrades
 [4]: https://help.ubuntu.com/lts/serverguide/automatic-updates.html
