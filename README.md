@@ -146,14 +146,14 @@ Arch Linux: [1][15]
  - `service ssh restart`
 
 #### 12. Firewall config
-Ufw Docs & Digital Ocean: [1][16] & [2][17]
+Ufw Docs & Digital Ocean: [1][16] , [2][17] & [3][18]
  - `ufw enable`
  - `ufw allow 2200/tcp`
  - `ufw allow 80/tcp`
  - `ufw allow 123/udp`
  - `service ufw restart`
  - `exit` (Log out of root)
-
+ 
 
 [1]: http://52.24.181.212/
 [2]: http://ec2-52-24-181-212.us-west-2.compute.amazonaws.com/
